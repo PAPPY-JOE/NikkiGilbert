@@ -4,7 +4,8 @@ header {
 }
 
 .horizontalNav {
-  background-color: #08f735;
+  /* background-color: #08f735; */
+  background-color: #356262;
   display: flex;
   align-items: center;
   justify-content: space-around;
