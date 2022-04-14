@@ -29,7 +29,7 @@ footer p:nth-child(1) {
   line-height: 40px;
   overflow: visible;
   font-family: "Rubik Wet Paint", "Rubik Moonrocks", sans-serif;
-
+  text-shadow: 2px 2px #d1cfcf;
 }
 
 footer p:nth-child(2) {
@@ -50,6 +50,8 @@ footer p:nth-child(2) {
   margin: 20px 10px;
   border-radius: 50%;
   transition: 0.5s all ease;
+  text-decoration: none !important;
+
 }
 
 .social-icons {
@@ -88,10 +90,10 @@ footer p:nth-child(2) {
   <p>You can also get in touch with me using any of the following mediums.</p>
   <!-- Social -->
   <div class="social-icons">
-      <a href="https://www.facebook.com/joseph.fatoye.1/"><i class="fa fa-facebook"></i></a>
-      <a href="https://www.instagram.com/olayemi_jf/"><i class="fa fa-instagram"></i></a>
-      <a href="https://github.com/PAPPY-JOE"><i class="fa fa-github-square"></i></a>
-      <a href="https://ng.linkedin.com/in/joseph-fatoye-b672781b1"><i class="fa fa-linkedin"></i></a>
+      <a href="https://www.facebook.com//"><i class="fa fa-facebook"></i></a>
+      <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+      <a href="https://www.twitter.com/"><i class="fa fa-twitter"></i></a>
+      <a href="https://ng.linkedin.com/"><i class="fa fa-linkedin"></i></a>
   </div>
 
   <!-- Copyright -->
