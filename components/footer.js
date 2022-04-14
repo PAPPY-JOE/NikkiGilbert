@@ -56,6 +56,8 @@ footer p:nth-child(2) {
 
 .social-icons {
   display: flex;
+  border-bottom: 1px solid #356262;
+
 }
 
 .social-icons i {
@@ -77,7 +79,7 @@ footer p:nth-child(2) {
 
 .copyright {
   color: #191919;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 13px;
   margin-bottom: 15px;
   width: 100vw;
@@ -97,8 +99,9 @@ footer p:nth-child(2) {
   </div>
 
   <!-- Copyright -->
-  <p class="copyright">Copyright &copy; 2022 - Nikki Gilbert</p>
+  <p class="copyright">Copyright &copy; 2022 Nikki Gilbert. All rights reserved</p>
 </footer>
+
 `;
 
 class Footer extends HTMLElement {
