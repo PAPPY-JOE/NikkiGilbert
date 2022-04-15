@@ -15,7 +15,9 @@ footer {
   margin: 0;
   // background: #cbcbcb;
   // background: #df5900;
-  background: #ff6f0f;
+  // background: #ff6f0f;
+  // background: #c26324;
+  background: #356262;
 }
 
 footer p {
@@ -25,16 +27,16 @@ footer p {
 
 footer p:nth-child(1) {
   font-size: 30px;
-  color: #191919;
+  color: #d1cfcf ;
   line-height: 40px;
   overflow: visible;
   font-family: "Rubik Wet Paint", "Rubik Moonrocks", sans-serif;
-  text-shadow: 2px 2px #d1cfcf;
+  text-shadow: 2px 2px black;
 }
 
 footer p:nth-child(2) {
   font-size: 16px;
-  color: #191919;
+  color: #d1cfcf;
   max-width: 800px;
   min-width: 200px;
   margin: 0 50px 8px 50px;
@@ -56,7 +58,7 @@ footer p:nth-child(2) {
 
 .social-icons {
   display: flex;
-  border-bottom: 1px solid #356262;
+  border-bottom: 1px solid black;
 
 }
 
@@ -78,7 +80,7 @@ footer p:nth-child(2) {
 }
 
 .copyright {
-  color: #191919;
+  color: #d1cfcf;
   font-weight: 400;
   font-size: 13px;
   margin-bottom: 15px;
