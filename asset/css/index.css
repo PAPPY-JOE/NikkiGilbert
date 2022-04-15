@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: center;
   flex-flow: column;
-  padding: 50px 0;
+  padding-top: 50px;
   margin-top: 35px;
 }
 
@@ -48,6 +48,10 @@
   border-radius: 5px;
 }
 
+.imageBox img {
+  height: 300px;
+}
+
 .textBox {
   background-color: whitesmoke;
   width: 220px;
@@ -80,4 +84,14 @@
   text-decoration: none;
   color: #356262;
   font-weight: 600;
+}
+
+.new {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  background-color: whitesmoke;
+  width: 100%;
+  padding: 50px 0;
 }
